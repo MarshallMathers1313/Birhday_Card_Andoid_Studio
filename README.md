@@ -1,1 +1,1 @@
-# Birhday_Card_Andoid_Studio
+# Birhday Card Application in Android Studio
